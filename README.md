@@ -80,5 +80,3 @@ This project is intended for educational purposes. The score is a basic indicati
 - Understood basic password security concepts
 
 
-## 📄 License
-Created for educational and internship learning purposes.
